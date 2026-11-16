@@ -1,4 +1,4 @@
-# Ast IPS
+# SIP IPS
 Simple sensor that use threshold detection to block malicious IP that use brute force Attacks on SIP protocols.
 Created with Mario Graziosi (mario.graziosi@voiceatwork.com) on 10/10/2018.
 
